@@ -62,17 +62,11 @@ So the YOLO Model version 10 that I trained using my own data set that I took in
 
 - Video Before object detection
 
-<video width="320" height="240" controls>
-  <source src="src/data/WIN_20240715_15_12_59_Pro.mp4" type="video/mp4">
-  No Face Detection Video
-</video>
+[video_no_detection](src/data/WIN_20240715_15_12_59_Pro.mp4)
 
 - Video After object detection
 
-<video width="320" height="240" controls>
-  <source src="src/data/outputHasilDeteksi.mp4" type="video/mp4">
-  Face Detection Video
-</video>
+[vodeo_detection](src/data/outputHasilDeteksi.mp4)
 
 # References
 
